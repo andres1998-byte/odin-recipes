@@ -1,0 +1,24 @@
+body {
+    background-color:rgb(75, 173, 96);
+
+}
+
+.title {
+    color:red;
+    background-color:blue;
+    text-align: center;
+    font-family:'Arial Narrow';
+
+}
+
+.body {
+    color:white;
+    font-family:'Gill Sans MT';
+
+}
+
+.header {
+    font-weight:bold;
+    font-size: 26px;
+
+}
